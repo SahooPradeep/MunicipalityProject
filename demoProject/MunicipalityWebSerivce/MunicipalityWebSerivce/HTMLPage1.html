@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <script type="text/javascript" src="Scripts/jquery-1.7.1.js"></script>
+    <script type="text/javascript" src="Scripts/jquery-1.7.1.minjs"></script>
+    <script type="text/javascript" >
+        $(document).ready(function () {
+            $.ajax({
+                type: "GET",
+                cache: false,
+                url: "http://localhost:9000/Values/GetAllProducts",
+                contenttype: 'application/json ; charset=utf-8',
+                async: true,
+                processdata:false,
+                success: function (data) {
+                    alert('sucess');
+                }
+            });
+        });
+    </script>
+</body>
+</html>

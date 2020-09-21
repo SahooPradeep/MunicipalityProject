@@ -1,0 +1,34 @@
+﻿<?xml version="1.0"?>
+
+  <Municipality >
+
+    <muncipalitydetails>
+    <MunicipalityName>cuttack</MunicipalityName>
+    <Date>01/01/2020</Date>
+    <Result>0.4</Result>
+    </muncipalitydetails>
+    <muncipalitydetails>
+    <MunicipalityName>cuttack</MunicipalityName>
+    <Date>01/05/2020</Date>
+    <Result>0.4</Result>
+    </muncipalitydetails>
+    <muncipalitydetails>
+    <MunicipalityName>cuttack</MunicipalityName>
+    <Date>01/05/2020</Date>
+    <Result>0.4</Result>
+    </muncipalitydetails>
+    <muncipalitydetails>
+    <MunicipalityName>cuttack</MunicipalityName>
+    <Date>10/01/2020</Date>
+    <Result>0.2</Result>
+    </muncipalitydetails>
+    <muncipalitydetails>
+    <MunicipalityName>cuttack</MunicipalityName>
+    <Date>01/07/2020</Date>
+    <Result>0.1s</Result>
+    </muncipalitydetails>
+  
+  
+  </Municipality>
+  
+
